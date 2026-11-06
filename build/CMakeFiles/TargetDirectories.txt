@@ -1,0 +1,3 @@
+/home/unib14z3/Dev/Game-Dev/scratch/game-1/build/CMakeFiles/scgame1.dir
+/home/unib14z3/Dev/Game-Dev/scratch/game-1/build/CMakeFiles/edit_cache.dir
+/home/unib14z3/Dev/Game-Dev/scratch/game-1/build/CMakeFiles/rebuild_cache.dir

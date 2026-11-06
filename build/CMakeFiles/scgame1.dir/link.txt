@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/scgame1.dir/link.d CMakeFiles/scgame1.dir/src/main.cpp.o -o scgame1  /usr/lib/libraylib.so.6.2.0 -lm

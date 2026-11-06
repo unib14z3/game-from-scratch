@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/RaylibGame.dir/link.d CMakeFiles/RaylibGame.dir/src/main.cpp.o -o RaylibGame  /usr/lib/libraylib.so.6.2.0 -lm
